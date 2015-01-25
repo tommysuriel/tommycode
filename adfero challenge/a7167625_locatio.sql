@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `locations`
+-- Database: `a7167625_locatio`
 --
 
 -- --------------------------------------------------------
