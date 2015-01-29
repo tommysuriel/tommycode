@@ -1,0 +1,4 @@
+name= "form example"
+description ="An example with forms and a database table"
+core = "7.x"
+version = "7.x-1.0"
